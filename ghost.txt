@@ -1,3 +1,0 @@
-this is an HTML testing document, don't expect anything beautiful.
-
-making a change, woo!
