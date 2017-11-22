@@ -1,1 +1,0 @@
-this is a CSS testing document, don't expect anything square.
